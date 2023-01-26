@@ -1,1 +1,1 @@
-Spell check project
+Shellcheck Project
